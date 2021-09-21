@@ -32,7 +32,6 @@ Currently, the following organizations are **officially** using Argo Workflows:
 1. [Botkeeper](https://www.botkeeper.com/)
 1. [ByteDance](https://www.bytedance.com/en/)
 1. [Canva](https://www.canva.com/)
-1. [Capact](https://capact.io/)
 1. [Capital One](https://www.capitalone.com/tech/)
 1. [Carrefour](https://www.carrefour.com/)
 1. [CarTrack](https://www.cartrack.com/)
@@ -150,6 +149,7 @@ Currently, the following organizations are **officially** using Argo Workflows:
 
 In addition, the following projects are **officially** using Argo Workflows:
 
+1. [Capact](https://github.com/capactio/capact)
 1. [Couler](https://github.com/couler-proj/couler)
 1. [Kubeflow](https://www.kubeflow.org/)
 1. [Onepanel](https://github.com/onepanelio/onepanel)
